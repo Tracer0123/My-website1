@@ -1,0 +1,36 @@
+
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #B7C4CF, #D8D9DA);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+.font{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+.my-name{
+    font-family: 'Kanit', sans-serif !important;
+    font-size: 5rem;
+}
+.title{
+    font-size: 2rem;
+}
+
+body {
+    background-image: url('./Untitled\ design1.png');
+    background-repeat: no-repeat;
+}
+.about-me{
+    text-align: center;
+}
+.paragraph{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+}
+.footer{
+    background-color: #D4D4D4;
+    
+}
+.li > .nav-bar{
+    color: white;
+}
